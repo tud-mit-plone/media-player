@@ -46,7 +46,7 @@
     "cross-env": "^5.2.0",
     "cssnano": "^4.1.10",
     "eslint": "^5.16.0",
-    "gzip-size": "^5.0.0",
+    "gzip-size": "^5.1.1",
     "http-server": "^0.11.1",
     "postcss-calc": "^7.0.1",
     "postcss-cli": "^6.1.2",
@@ -71,5 +71,8 @@
     "aria",
     "dom",
     "controls"
-  ]
+  ],
+  "dependencies": {
+    "gzip-size-cli": "^3.0.0"
+  }
 }
